@@ -26,7 +26,7 @@ To run Google Q&A Scraper, you need the following dependencies:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/google-qna-scraper.git
+    git clone https://github.com/Wuhpondiscord/Google-Q-A-Scraper.git
     ```
 
 2. Install dependencies:
